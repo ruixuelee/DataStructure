@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="DataStructure"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/code/DataStructure/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/code/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/code/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/code/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/code/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MinZhouQi">
+				<Option output="D:/code/DataStructure/cmake-build-debug/MinZhouQi.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/code/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/code/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 MinZhouQi"/>
+					<CompileFile command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/code/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/code/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/code/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MinZhouQi/fast">
+				<Option output="D:/code/DataStructure/cmake-build-debug/MinZhouQi.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/code/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/code/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 MinZhouQi/fast"/>
+					<CompileFile command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/code/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/code/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/code/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hello">
+				<Option output="D:/code/DataStructure/cmake-build-debug/hello.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/code/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/code/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 hello"/>
+					<CompileFile command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/code/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/code/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/code/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hello/fast">
+				<Option output="D:/code/DataStructure/cmake-build-debug/hello.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/code/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/code/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 hello/fast"/>
+					<CompileFile command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/code/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/code/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/code/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/code/DataStructure/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/code/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/code/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/code/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/code/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Arr">
+				<Option output="D:/code/DataStructure/cmake-build-debug/Arr.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/code/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/code/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 Arr"/>
+					<CompileFile command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/code/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/code/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/code/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Arr/fast">
+				<Option output="D:/code/DataStructure/cmake-build-debug/Arr.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/code/DataStructure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/code/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 Arr/fast"/>
+					<CompileFile command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/code/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/code/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/code/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/code/DataStructure/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/code/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/code/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/code/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw32/bin/mingw32-make.exe -f &quot;D:/code/DataStructure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/code/DataStructure/Arr.cpp">
+			<Option target="Arr"/>
+		</Unit>
+		<Unit filename="D:/code/DataStructure/Arr.h">
+			<Option target="Arr"/>
+		</Unit>
+		<Unit filename="D:/code/DataStructure/MinZhouQi.cpp">
+			<Option target="MinZhouQi"/>
+		</Unit>
+		<Unit filename="D:/code/DataStructure/hello.cpp">
+			<Option target="hello"/>
+		</Unit>
+		<Unit filename="D:/code/DataStructure/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
