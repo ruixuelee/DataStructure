@@ -68,15 +68,15 @@ include CMakeFiles/hello.dir/flags.make
 CMakeFiles/hello.dir/hello.cpp.obj: CMakeFiles/hello.dir/flags.make
 CMakeFiles/hello.dir/hello.cpp.obj: ../hello.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\code\DataStructure\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/hello.dir/hello.cpp.obj"
-	D:\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\hello.dir\hello.cpp.obj -c D:\code\DataStructure\hello.cpp
+	C:\PROGRA~2\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\hello.dir\hello.cpp.obj -c D:\code\DataStructure\hello.cpp
 
 CMakeFiles/hello.dir/hello.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hello.dir/hello.cpp.i"
-	D:\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\code\DataStructure\hello.cpp > CMakeFiles\hello.dir\hello.cpp.i
+	C:\PROGRA~2\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\code\DataStructure\hello.cpp > CMakeFiles\hello.dir\hello.cpp.i
 
 CMakeFiles/hello.dir/hello.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hello.dir/hello.cpp.s"
-	D:\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\code\DataStructure\hello.cpp -o CMakeFiles\hello.dir\hello.cpp.s
+	C:\PROGRA~2\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\code\DataStructure\hello.cpp -o CMakeFiles\hello.dir\hello.cpp.s
 
 # Object files for target hello
 hello_OBJECTS = \

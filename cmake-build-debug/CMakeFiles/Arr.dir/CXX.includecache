@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/code/DataStructure/Arr.cpp
+stdio.h
+-
+malloc.h
+-
+stdlib.h
+-
+Arr.h
+D:/code/DataStructure/Arr.h
+
+D:/code/DataStructure/Arr.h
+

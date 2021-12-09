@@ -68,15 +68,15 @@ include CMakeFiles/Arr.dir/flags.make
 CMakeFiles/Arr.dir/Arr.cpp.obj: CMakeFiles/Arr.dir/flags.make
 CMakeFiles/Arr.dir/Arr.cpp.obj: ../Arr.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\code\DataStructure\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Arr.dir/Arr.cpp.obj"
-	D:\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Arr.dir\Arr.cpp.obj -c D:\code\DataStructure\Arr.cpp
+	C:\PROGRA~2\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Arr.dir\Arr.cpp.obj -c D:\code\DataStructure\Arr.cpp
 
 CMakeFiles/Arr.dir/Arr.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Arr.dir/Arr.cpp.i"
-	D:\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\code\DataStructure\Arr.cpp > CMakeFiles\Arr.dir\Arr.cpp.i
+	C:\PROGRA~2\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\code\DataStructure\Arr.cpp > CMakeFiles\Arr.dir\Arr.cpp.i
 
 CMakeFiles/Arr.dir/Arr.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Arr.dir/Arr.cpp.s"
-	D:\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\code\DataStructure\Arr.cpp -o CMakeFiles\Arr.dir\Arr.cpp.s
+	C:\PROGRA~2\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\code\DataStructure\Arr.cpp -o CMakeFiles\Arr.dir\Arr.cpp.s
 
 # Object files for target Arr
 Arr_OBJECTS = \
